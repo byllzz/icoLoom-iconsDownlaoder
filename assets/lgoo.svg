@@ -1,0 +1,7 @@
+<svg width="180" height="50" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="10" width="8" height="40" rx="2" fill="#00F260"></rect>
+  <rect x="24" y="10" width="8" height="40" rx="2" fill="#00F260"></rect>
+  <rect x="38" y="10" width="8" height="40" rx="2" fill="#00F260"></rect>
+  <rect x="52" y="10" width="8" height="40" rx="2" fill="#00F260"></rect>
+  <text x="70" y="38" font-family="Inter, sans-serif" font-size="28" font-weight="600" fill="#FFFFFF">icoLoom</text>
+</svg>
