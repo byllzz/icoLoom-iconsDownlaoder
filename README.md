@@ -28,4 +28,3 @@ A stylish and responsive  based On (HTML , CSS>) that lets users explore, previe
 
 ---
 
-> Designed and developed with ❤️ by [@bilalmalik04](https://github.com/bilalmalik04)
